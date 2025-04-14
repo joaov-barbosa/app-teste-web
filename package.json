@@ -1,0 +1,13 @@
+{
+    "name": "codedeploy-test-app",
+    "version": "1.0.0",
+    "description": "Aplicação simples para teste do CodeDeploy com EC2/ASG",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.4"
+    }
+  }
+  
