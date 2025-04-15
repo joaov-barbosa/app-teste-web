@@ -10,4 +10,4 @@ cd /home/ec2-user/app-teste-web
 
 
 npm install
-npm start
+nohup npm start > /home/ec2-user/app.log 2>&1 &
